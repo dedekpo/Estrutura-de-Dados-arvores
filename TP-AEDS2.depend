@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\arthu\desktop\tp-aeds2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1555585696 source:c:\users\arthu\desktop\tp-aeds2\tadlista.c
+	"TADLista.h"
+
+1555586201 c:\users\arthu\desktop\tp-aeds2\tadlista.h
+	<stdio.h>
+	<stdlib.h>
+
+1555586226 source:c:\users\arthu\desktop\tp-aeds2\tadtst.c
+	<stdlib.h>
+	"TADTST.h"
+
+1555586226 c:\users\arthu\desktop\tp-aeds2\tadtst.h
+
+1555586290 source:c:\users\arthu\desktop\tp-aeds2\tadpatricia.c
+	"TADPatricia.h"
+
+1555585670 c:\users\arthu\desktop\tp-aeds2\tadpatricia.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TADLista.h"
+
