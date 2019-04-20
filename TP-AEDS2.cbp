@@ -43,6 +43,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="TADTST.h" />
+		<Unit filename="TST.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TST.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

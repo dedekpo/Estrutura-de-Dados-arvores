@@ -1,7 +1,8 @@
 # depslib dependency file v1.0
-1514140574 source:c:\users\arthu\desktop\tp-aeds2\main.c
+1555609357 source:c:\users\arthu\desktop\tp-aeds2\main.c
 	<stdio.h>
 	<stdlib.h>
+	"TADPatricia.h"
 
 1555585696 source:c:\users\arthu\desktop\tp-aeds2\tadlista.c
 	"TADLista.h"
@@ -10,18 +11,58 @@
 	<stdio.h>
 	<stdlib.h>
 
-1555586226 source:c:\users\arthu\desktop\tp-aeds2\tadtst.c
+1555586757 source:c:\users\arthu\desktop\tp-aeds2\tadtst.c
 	<stdlib.h>
 	"TADTST.h"
 
 1555586226 c:\users\arthu\desktop\tp-aeds2\tadtst.h
 
-1555586290 source:c:\users\arthu\desktop\tp-aeds2\tadpatricia.c
+1555612080 source:c:\users\arthu\desktop\tp-aeds2\tadpatricia.c
 	"TADPatricia.h"
-
-1555585670 c:\users\arthu\desktop\tp-aeds2\tadpatricia.h
+	<math.h>
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
+
+1555609388 c:\users\arthu\desktop\tp-aeds2\tadpatricia.h
 	"TADLista.h"
+
+1555766175 source:c:\users\andré elias\desktop\tp-aeds2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TADPatricia.h"
+
+1555701326 c:\users\andré elias\desktop\tp-aeds2\tadpatricia.h
+	"TADLista.h"
+	"TST.h"
+
+1555614335 c:\users\andré elias\desktop\tp-aeds2\tadlista.h
+	<stdio.h>
+	<stdlib.h>
+
+1555614335 source:c:\users\andré elias\desktop\tp-aeds2\tadlista.c
+	"TADLista.h"
+
+1555684073 source:c:\users\andré elias\desktop\tp-aeds2\tadpatricia.c
+	"TADPatricia.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1555700663 source:c:\users\andré elias\desktop\tp-aeds2\tadtst.c
+	"TADTST.h"
+	<stdlib.h>
+	"TADTST.h"
+
+1555694874 c:\users\andré elias\desktop\tp-aeds2\tadtst.h
+	<stdio.h>
+	<stdlib.h>
+
+1555766175 c:\users\andré elias\desktop\tp-aeds2\tst.h
+	<stdio.h>
+	<stdlib.h>
+
+1555765893 source:c:\users\andré elias\desktop\tp-aeds2\tst.c
+	"TST.h"
 
