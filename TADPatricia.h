@@ -2,6 +2,8 @@
 #include "TST.h"
 
 #define tam 30
+#ifndef TADPATRICIA_H_INCLUDED
+#define TADPATRICIA_H_INCLUDED
 typedef unsigned int TipoIndex;
 
 typedef enum {
@@ -20,7 +22,7 @@ typedef struct TipoPatricia{
         } NInterno;
         struct{
             char palavra[tam]; //Palavra armazenada na arvóre
-            TipoLista lista;            //Lista encadeada;
+            TipoLista indiceI;   //Lista encadeada;
             int tamanho;
         }NExterno;
     }NO;
@@ -29,14 +31,14 @@ typedef struct TipoPatricia{
 
 void Inicializa(TipoArvore *t);
 int EExterno(TipoArvore aux);
-TipoArvore CriaNoExt(char *palavra);
 int ComparaLetra(TipoArvore *t, char *palavra);
 char ComparaIndice(int i, char *palavra);
-
-TipoArvore Insere(char *palavra, TipoArvore *t);
-
-TipoArvore InsereEntre(char *palavra, TipoArvore *t, int i, char letra);
+TipoArvore Insere(char *palavra, TipoArvore *t, int idDoc);
+TipoArvore InsereEntre(char *palavra, TipoArvore *t, int i, char letra, int idDoc);
 TipoArvore CriaNoInt(int i, TipoArvore *esq, TipoArvore *dir, char letra);
+TipoArvore CriaNoExt(char *palavra, int idDoc);
 void Pesquisa(char *palavra, TipoArvore t);
 void ImprimeArvore(TipoArvore t);
-void CorrigePalavra(char *palavra);
+void ImprimeIndice(TipoArvore t);
+
+#endif

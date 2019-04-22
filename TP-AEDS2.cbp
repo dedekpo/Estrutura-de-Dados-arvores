@@ -39,10 +39,6 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="TADPatricia.h" />
-		<Unit filename="TADTST.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="TADTST.h" />
 		<Unit filename="TST.c">
 			<Option compilerVar="CC" />
 		</Unit>

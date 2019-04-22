@@ -66,3 +66,99 @@
 1555765893 source:c:\users\andré elias\desktop\tp-aeds2\tst.c
 	"TST.h"
 
+1555766478 source:c:\users\thomas\desktop\tp_aedsii-master\tst.c
+	"TST.h"
+
+1555766478 c:\users\thomas\desktop\tp_aedsii-master\tst.h
+	<stdio.h>
+	<stdlib.h>
+
+1555816369 source:c:\users\thomas\desktop\tp_aedsii-master\tadlista.c
+	"TADLista.h"
+
+1555816906 c:\users\thomas\desktop\tp_aedsii-master\tadlista.h
+	<stdio.h>
+	<stdlib.h>
+
+1555820094 source:c:\users\thomas\desktop\tp_aedsii-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TADPatricia.h"
+	"TADLista.h"
+
+1555816209 c:\users\thomas\desktop\tp_aedsii-master\tadpatricia.h
+	"TADLista.h"
+	"TST.h"
+
+1555820034 source:c:\users\thomas\desktop\tp_aedsii-master\tadpatricia.c
+	"TADPatricia.h"
+	"TADLista.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1555892116 source:c:\users\thomas\desktop\final\tp aedsii comentado\tadlista.c
+	"TADLista.h"
+
+1555891243 c:\users\thomas\desktop\final\tp aedsii comentado\tadlista.h
+	<stdio.h>
+	<stdlib.h>
+
+1555766478 source:c:\users\thomas\desktop\final\tp aedsii comentado\tst.c
+	"TST.h"
+
+1555766478 c:\users\thomas\desktop\final\tp aedsii comentado\tst.h
+	<stdio.h>
+	<stdlib.h>
+
+1555891400 source:c:\users\thomas\desktop\final\tp aedsii comentado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TADPatricia.h"
+	"TADLista.h"
+
+1555816209 c:\users\thomas\desktop\final\tp aedsii comentado\tadpatricia.h
+	"TADLista.h"
+	"TST.h"
+
+1555891978 source:c:\users\thomas\desktop\final\tp aedsii comentado\tadpatricia.c
+	"TADPatricia.h"
+	"TADLista.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1555892116 source:c:\users\thomas\desktop\a\tp aedsii comentado\tadlista.c
+	"TADLista.h"
+
+1555891243 c:\users\thomas\desktop\a\tp aedsii comentado\tadlista.h
+	<stdio.h>
+	<stdlib.h>
+
+1555969346 source:c:\users\thomas\desktop\a\tp aedsii comentado\tadpatricia.c
+	"TADPatricia.h"
+	"TADLista.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1555816209 c:\users\thomas\desktop\a\tp aedsii comentado\tadpatricia.h
+	"TADLista.h"
+	"TST.h"
+
+1555766478 c:\users\thomas\desktop\a\tp aedsii comentado\tst.h
+	<stdio.h>
+	<stdlib.h>
+
+1555766478 source:c:\users\thomas\desktop\a\tp aedsii comentado\tst.c
+	"TST.h"
+
+1555900635 source:c:\users\thomas\desktop\a\tp aedsii comentado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TADPatricia.h"
+	"TADLista.h"
+
